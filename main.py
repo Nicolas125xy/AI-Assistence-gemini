@@ -32,7 +32,7 @@ def main():
         r = sr.Recognizer()
         mic = sr.Microphone()
 
-    bem_vindo = "# Bem Vindo ao Assistente Mil Grau com Gemini AI #"
+    bem_vindo = "# Bem Vindo ao Gemini AI #"
     print("")
     print(len(bem_vindo) * "#")
     print(bem_vindo)
